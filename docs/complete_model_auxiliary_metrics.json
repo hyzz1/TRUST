@@ -1,0 +1,12 @@
+{
+  "table": 3,
+  "row": "Full RGSS with GRC",
+  "dataset": "voc21",
+  "source_accuracy_percent": 92.5,
+  "note": "Paper-reported only; old no-GRC source-selection statistics are not accepted as proof for this complete-model cell.",
+  "table2_complete_TRUST": {
+    "voc21_mIoU_percent": 67.5,
+    "cityscapes_mIoU_percent": 38.5,
+    "average": 53.0
+  }
+}

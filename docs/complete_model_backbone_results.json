@@ -1,0 +1,146 @@
+[
+  {
+    "table": 6,
+    "backbone": "ViT-B/16",
+    "dataset": "voc21",
+    "paper_mIoU_percent": 67.5
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/16",
+    "dataset": "context59",
+    "paper_mIoU_percent": 39.4
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/16",
+    "dataset": "cityscapes",
+    "paper_mIoU_percent": 38.5
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-L/14",
+    "dataset": "voc21",
+    "paper_mIoU_percent": 59.7
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-L/14",
+    "dataset": "context59",
+    "paper_mIoU_percent": 36.6
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-L/14",
+    "dataset": "cityscapes",
+    "paper_mIoU_percent": 38.9
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/32",
+    "dataset": "voc21",
+    "paper_mIoU_percent": 53.4
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/32",
+    "dataset": "context59",
+    "paper_mIoU_percent": 32.7
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/32",
+    "dataset": "cityscapes",
+    "paper_mIoU_percent": 30.7
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv2-L/14",
+    "dataset": "voc21",
+    "paper_mIoU_percent": 64.0
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv2-L/14",
+    "dataset": "context59",
+    "paper_mIoU_percent": 37.6
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv2-L/14",
+    "dataset": "cityscapes",
+    "paper_mIoU_percent": 36.8
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-L/16",
+    "dataset": "voc21",
+    "paper_mIoU_percent": 67.0
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-L/16",
+    "dataset": "context59",
+    "paper_mIoU_percent": 38.5
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-L/16",
+    "dataset": "cityscapes",
+    "paper_mIoU_percent": 37.3
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-B/16",
+    "dataset": "voc21",
+    "paper_mIoU_percent": 67.5
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-B/16",
+    "dataset": "context59",
+    "paper_mIoU_percent": 39.4
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-B/16",
+    "dataset": "cityscapes",
+    "paper_mIoU_percent": 38.5
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/16",
+    "dataset": "average",
+    "paper_mIoU_percent": 48.5
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-L/14",
+    "dataset": "average",
+    "paper_mIoU_percent": 45.1
+  },
+  {
+    "table": 6,
+    "backbone": "ViT-B/32",
+    "dataset": "average",
+    "paper_mIoU_percent": 38.9
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv2-L/14",
+    "dataset": "average",
+    "paper_mIoU_percent": 46.1
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-L/16",
+    "dataset": "average",
+    "paper_mIoU_percent": 47.6
+  },
+  {
+    "table": 7,
+    "backbone": "DINOv3-B/16",
+    "dataset": "average",
+    "paper_mIoU_percent": 48.5
+  }
+]

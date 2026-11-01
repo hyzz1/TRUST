@@ -1,0 +1,46 @@
+{
+  "source": "TRUST1029.pdf and author-supplied records",
+  "host": "NACLIP",
+  "results": [
+    {
+      "dataset": "voc20",
+      "reported_mIoU_percent": 88.0,
+      "matched_log_mIoU_percent": null
+    },
+    {
+      "dataset": "context59",
+      "reported_mIoU_percent": 39.4,
+      "matched_log_mIoU_percent": null
+    },
+    {
+      "dataset": "coco_stuff164k",
+      "reported_mIoU_percent": 26.5,
+      "matched_log_mIoU_percent": null
+    },
+    {
+      "dataset": "cityscapes",
+      "reported_mIoU_percent": 38.5,
+      "matched_log_mIoU_percent": 38.47023
+    },
+    {
+      "dataset": "ade20k",
+      "reported_mIoU_percent": 19.7,
+      "matched_log_mIoU_percent": null
+    },
+    {
+      "dataset": "voc21",
+      "reported_mIoU_percent": 67.5,
+      "matched_log_mIoU_percent": 67.453889
+    },
+    {
+      "dataset": "context60",
+      "reported_mIoU_percent": 36.9,
+      "matched_log_mIoU_percent": 36.863003
+    },
+    {
+      "dataset": "coco_object",
+      "reported_mIoU_percent": 38.3,
+      "matched_log_mIoU_percent": null
+    }
+  ]
+}

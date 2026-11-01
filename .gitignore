@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+outputs/
+weights/
+third_party/
+datasets/
+*.pth
+*.pt
+*.log
+.env
+.work/
